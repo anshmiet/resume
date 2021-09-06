@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body style="background-color:silver;">
+<table border="5px">
+<tr>
+<th>decimal</th>
+<th>0</th>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+</tr>
+<tr>
+<td>english</td>
+<td>zero</td>
+<td>first</td>
+<td>second</td>
+<td>thrid</td>
+</tr>
+<h1>form</h1>
+<form>
+name      <input text="text"><br><br>
+class     <input text="text"><br><br>
+department<input text="text"<br><br>
+</form>
